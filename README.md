@@ -28,8 +28,6 @@
 
 ## ⚙️ Backend Development
 
-## ⚙️ Backend Development
-
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ## 🗄️ Databases & ORM
